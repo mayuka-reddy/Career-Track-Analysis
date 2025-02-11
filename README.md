@@ -13,6 +13,7 @@ student_track_id: Unique identifier per student-track pair.
 track_completed: 1 if completed, 0 otherwise.
 days_for_completion: Number of days taken to complete the track.
 completion_bucket: Categorizes completion time into defined ranges.
+
 SQL Query Used:
 SELECT
     student_track_id,
