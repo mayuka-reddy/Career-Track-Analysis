@@ -1,0 +1,3 @@
+*.sql linguist-detectable=true
+*.twb linguist-detectable=true
+*.twbx linguist-detectable=true
