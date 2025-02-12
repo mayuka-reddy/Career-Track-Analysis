@@ -1,3 +1,3 @@
-*.sql linguist-detectable=true
-*.twb linguist-detectable=true
-*.twbx linguist-detectable=true
+*.sql linguist-language=SQL
+*.twb linguist-language=Tableau
+*.twbx linguist-language=Tableau
